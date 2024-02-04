@@ -8,3 +8,5 @@
 # mkdir /newstorage
 # mount /dev/sdb1 /newstorage
 # du -h /newstorage
+
+# /etc/fstab
